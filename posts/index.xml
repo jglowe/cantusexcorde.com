@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cantus Ex Corde</title>
+    <link>https://cantusexcorde.com/posts/</link>
+    <description>Recent content in Posts on Cantus Ex Corde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 17:21:17 -0400</lastBuildDate>
+    <atom:link href="https://cantusexcorde.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Chant the Psalms</title>
+      <link>https://cantusexcorde.com/posts/how_to_chant_the_psalms/</link>
+      <pubDate>Wed, 26 Jun 2024 17:21:17 -0400</pubDate>
+      <guid>https://cantusexcorde.com/posts/how_to_chant_the_psalms/</guid>
+      <description>The backbone of chanting the hours is the Gregorian psalm tones.&#xA;There are 8 main Gregorian modes with a few more. CC watershead has excellent recording of what they sound like. Here is the page listing them: https://www.ccwatershed.org/2023/11/29/pdf-download-eight-gregorian-psalm-tones-harmonies-by-jeff-ostrowski/&#xA;The mode you use is determined by the antiphon you say. There are multiple sources for antiphons in Latin in the OF. The antiphonale Romanum 1 and 2 contain the antiphons for lauds and vespers for Sundays and solemnities.</description>
+    </item>
+    <item>
+      <title>Getting Started</title>
+      <link>https://cantusexcorde.com/posts/getting_started/</link>
+      <pubDate>Sun, 16 Jun 2024 21:09:29 -0400</pubDate>
+      <guid>https://cantusexcorde.com/posts/getting_started/</guid>
+      <description>What are the &amp;ldquo;Hours&amp;rdquo; of the Liturgy of the Hours? The &amp;ldquo;Hours&amp;rdquo; referred to here are the prayers said a specific parts of the day and not the length of time it takes. The Church has set 7 times of the day aside to pray. The precise times aren&amp;rsquo;t super strict and you can pray each hour in the general time of day that the name suggests. These are the names and approximate times of the hours.</description>
+    </item>
+    <item>
+      <title>What Even is the Liturgy of the Hours?</title>
+      <link>https://cantusexcorde.com/posts/what_is_the_loth/</link>
+      <pubDate>Sat, 15 Jun 2024 12:28:21 -0400</pubDate>
+      <guid>https://cantusexcorde.com/posts/what_is_the_loth/</guid>
+      <description>It seems like something priests and religious would do. But surely it isn&amp;rsquo;t something for lay people? In fact yes lay people are encouraged to pray it.</description>
+    </item>
+  </channel>
+</rss>
